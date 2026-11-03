@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/uploads/*
+!data/uploads/.gitkeep
+data/reports.csv
+data/approval_history.jsonl
+data/report_owners.jsonl
+data/*.db
+data/*.db-*
+data/*.sqlite
+data/*.sqlite-*
+data/*.sqlite3
+data/*.sqlite3-*
+.env
+.streamlit/secrets.toml

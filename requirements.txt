@@ -1,0 +1,8 @@
+streamlit>=1.39,<2
+pandas>=2.2,<4
+altair>=5,<7
+openpyxl>=3.1,<4
+reportlab[shaping]>=4.4,<5
+fonttools>=4,<5
+pypdfium2>=4.30,<6
+pytest>=8,<10
